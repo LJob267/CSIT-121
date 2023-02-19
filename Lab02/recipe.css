@@ -1,0 +1,33 @@
+body { background-color: lightpink;
+       font-family: georgia, helvetica, arial; }
+
+h1 {color: white;
+	text-transform: uppercase; 
+	background-color: hotpink; 
+	margin: 25px;
+	font-size: 5em;
+	text-shadow: 3px 2px 5px #667788;
+	text-align: center; }
+
+h2{text-transform: capitalize;
+	font-style: italic;
+	color: mediumpurple;
+	background-color: hotpink; 
+	margin: 25px;
+	font-size: 2em;}
+
+
+h3{text-transform: capitalize;
+	background-color: hotpink; 
+	margin: 25px;
+	font-size: 2em; }
+
+p{ margin: 25px;
+	font-size: 1em;}
+
+
+	ul{color: mediumpurple;}
+
+	    .feature { color: floralwhite;
+		font-weight: bold;
+		font-style: oblique;}
