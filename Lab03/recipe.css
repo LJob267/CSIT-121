@@ -1,0 +1,39 @@
+body { background-image: url(images/Redmm.jpg);
+	   background-color: darkred;
+       font-family: georgia, helvetica, arial; }
+
+h1 {color: white;
+	text-transform: uppercase; 
+	background-color: darkred; 
+	margin: 25px;
+	font-size: 5em;
+	text-shadow: 3px 2px 5px #667788;
+	text-align: center;
+	 border-radius: 15px;
+	 box-shadow: 5px 5px 5px #828282;}
+
+h2{text-transform: capitalize;
+	font-style: italic;
+	color: mediumpurple;
+	background-color: darkred; 
+	margin: 25px;
+	font-size: 2em;
+     border-radius: 15px;
+	 box-shadow: 5px 5px 5px #828282;}
+
+
+h3{text-transform: capitalize;
+	background-color: darkred; 
+	margin: 25px;
+	font-size: 2em;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #828282;}
+
+p{ margin: 25px;
+	font-size: 1em;}
+
+	ul{color: darkred;}
+
+	    .feature { color: darkred;
+		font-weight: bold;
+		font-style: oblique;}
