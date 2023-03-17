@@ -1,0 +1,55 @@
+body { background-image: url(images/galaxy.jpg);
+	   background-color: black;
+       font-family: georgia, helvetica, arial; }
+
+h1 {color: white;
+	text-transform: uppercase; 
+	margin: 25px;
+	font-size: 5em;
+	text-shadow: 3px 2px 5px #667788;
+	text-align: center;
+	 border-radius: 15px;
+	}
+
+h2 {text-transform: capitalize;
+	font-style: italic;
+	text-align: center;
+	color: mediumpurple;
+	margin: 25px;
+	font-size: 2em;
+     border-radius: 15px;
+	 box-shadow: 5px 5px 5px #828282;
+	 border-style: dashed;}
+
+	p {text-transform: capitalize;
+	font-style: italic;
+	color: mediumpurple;
+	background-color: ghostwhite; 
+	margin: 15px;
+	font-size: 2em;
+     border-radius: 15px;
+	 box-shadow: 5px 5px 5px #828282;}
+
+	
+	
+
+			main {float: left; width: 400px; }
+
+
+			nav {
+				color: white;
+	            text-transform: uppercase; 
+	            margin: 25px;
+	            font-size: 3em;
+	            text-shadow: 3px 2px 5px #667788;
+	            text-align: center;
+	            border-radius: 15px
+	  }
+			footer {margin-left: 300px; }
+
+
+		a:link { color: #ff0000; }
+		a:visited { color: #00FFFF; }
+        a:hover { text-decoration: none;
+         color: #B22222; }
+
