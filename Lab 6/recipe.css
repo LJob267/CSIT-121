@@ -1,0 +1,70 @@
+body { background-image: url(images/Redmm.jpg);
+	   background-color: darkred;
+       font-family: georgia, helvetica, arial; }
+
+     @media (max-width: 768px) {
+  nav {  float: right;
+	         margin-right: 10px;
+       border: 3px ridge #000000;
+       background-color: blueviolet;
+       font-size: 11em;
+       position:relative; bottom:150px; top:980px;}
+
+       main {margin-right: 10px;
+       	background-color: blueviolet;
+       display: inline-block;
+           width: 7em;
+           padding: 55em;
+           border: dotted;}
+
+			footer {margin-right: 10px; 
+				clear: both;}
+}
+
+h1 {color: white;
+	text-transform: uppercase; 
+	background-color: darkred; 
+	margin: 25px;
+	font-size: 5em;
+	text-shadow: 3px 2px 5px #667788;
+	text-align: center;
+	 border-radius: 15px;
+	 box-shadow: 5px 5px 5px #828282;}
+
+h2{text-transform: capitalize;
+	background-color: darkred; 
+	 font-style: italic;
+	color: mediumpurple;
+	margin: 25px;
+	font-size: 2em;
+     border-radius: 15px;
+	 box-shadow: 5px 5px 5px #828282;}
+	 
+
+h3{text-transform: capitalize;
+	background-color: darkred; 
+	margin: 25px;
+	font-size: 2em;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #828282;}
+
+
+
+	
+ul{color: darkred;}
+
+	    .feature { color: darkred;
+		font-weight: bold;
+		font-style: oblique;}
+
+		#wrapper {margin-left: auto;
+			margin-right: auto;
+			width: 80%; }
+			
+p{ margin: 25px;
+	font-size: 1em;}
+			
+		a:link { color: #ff0000; }
+		a:visited { color: #00FFFF; }
+        a:hover { text-decoration: none;
+         color: #B22222; }
