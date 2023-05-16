@@ -73,12 +73,11 @@ p{ margin: 25px;
         margin: auto;
          border: 1px solid #000066; }
 
-  thead { border-bottom: 1px solid; #000033;
+  thead { border-bottom: 1px solid #000033;
         padding: 3em;}
 
 caption { font-size: 2em;
           font-weight: bold; 
-          padding: bottom;
           border: 1px solid #000066; }
 
 tbody { font-family: Arial, sans-serif;
